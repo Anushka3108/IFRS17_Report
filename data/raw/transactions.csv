@@ -1,0 +1,7 @@
+txn_id,policy_id,txn_date,txn_type,amount
+T001,P001,2023-01-01,premium,10000
+T002,P001,2023-02-01,claim,-2000
+T003,P002,2023-01-01,premium,6000
+T004,P003,2023-01-01,premium,2000
+T005,P003,2023-02-01,claim,-500
+T006,P004,2023-03-01,premium,3000
